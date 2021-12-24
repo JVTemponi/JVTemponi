@@ -4,7 +4,10 @@
 - 🌱 Estudando Engenharia de Software como graduação e Ciência de Dados por conta própria
 
 <div align="center">
-<a href="https://github.com/rafaballerini"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVTemponi&layout=compact&langs_count=7&theme=dark"/>
+<a href="https://github.com/JVTemponi">
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=JVTemponi&hide=stars,prs,issues&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVTemponi&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
+
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="JTV-C" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
