@@ -1,7 +1,7 @@
 ### Olá mundo! Sou o João =)
 
 - 🔭 Atualmente trabalho como Analista de Business Intelligence
-- 🌱 Estudando Engenharia de Software como graduação e Ciência de Dados por conta própria
+- 🌱 Estudando Engenharia de Software como graduação e Engenharia de Dados por conta própria
 
 <div align="center">
 <a href="https://github.com/JVTemponi">
