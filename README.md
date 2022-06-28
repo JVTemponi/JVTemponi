@@ -1,6 +1,6 @@
 ### Olá mundo! Sou o João =)
 
-- 🔭 Atualmente trabalho como Analista de Business Intelligence
+- 🔭 Atualmente trabalho com Business Intelligence e Integrações
 - 🌱 Estudando Engenharia de Software como graduação e Engenharia de Dados por conta própria
 
 <div align="center">
